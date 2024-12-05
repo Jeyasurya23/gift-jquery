@@ -1,0 +1,366 @@
+[
+     {
+      "id": 1,
+      "name": "Personalized Photo Frame",
+      "price": 1499,
+      "image": "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?auto=format&fit=crop&w=500&q=60",
+      "description": "Beautiful wooden photo frame that can be personalized with names and dates."
+    },
+    {
+      "id": 2, 
+      "name": "Scented Candle Gift Set",
+      "price": 999,
+      "image": "https://images.unsplash.com/photo-1602874801007-bd458bb1b8b6?auto=format&fit=crop&w=500&q=60",
+      "description": "Set of 3 luxury scented candles in elegant glass jars."
+    },
+    {
+      "id": 3,
+      "name": "Leather Wallet",
+      "price": 2499,
+      "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=500&q=60",
+      "description": "Handcrafted genuine leather wallet with multiple compartments."
+    },
+    {
+      "id": 4,
+      "name": "Digital Art Frame",
+      "price": 4999,
+      "image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=500&q=60",
+      "description": "Smart digital frame that displays rotating artwork and photos."
+    },
+    {
+      "id": 5,
+      "name": "Bluetooth Speaker",
+      "price": 2999,
+      "image": "https://images.unsplash.com/photo-1589003077984-894e133dabab?auto=format&fit=crop&w=500&q=60",
+      "description": "Portable wireless speaker with premium sound quality."
+    },
+    {
+      "id": 6,
+      "name": "Gourmet Chocolate Box",
+      "price": 1299,
+      "image": "https://images.unsplash.com/photo-1549007994-cb92caebd54b?auto=format&fit=crop&w=500&q=60",
+      "description": "Assorted luxury chocolates in an elegant gift box."
+    },
+    {
+      "id": 7,
+      "name": "Silk Scarf",
+      "price": 1799,
+      "image": "https://images.unsplash.com/photo-1584030373081-f37b7bb4fa8e?auto=format&fit=crop&w=500&q=60",
+      "description": "Pure silk scarf with beautiful printed design."
+    },
+    {
+      "id": 8,
+      "name": "Smart Watch",
+      "price": 6999,
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=500&q=60",
+      "description": "Feature-rich smartwatch with fitness tracking and notifications."
+    },
+    {
+      "id": 9,
+      "name": "Jewelry Box",
+      "price": 2499,
+      "image": "https://images.unsplash.com/photo-1602173574767-37ac01994b2a?auto=format&fit=crop&w=500&q=60",
+      "description": "Wooden jewelry box with multiple compartments and mirror."
+    },
+    {
+      "id": 10,
+      "name": "Essential Oil Diffuser",
+      "price": 1999,
+      "image": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=500&q=60",
+      "description": "Ceramic diffuser with LED lights and multiple settings."
+    },
+    {
+      "id": 11,
+      "name": "Bamboo Tea Set",
+      "price": 3499,
+      "image": "https://images.unsplash.com/photo-1563822249548-9a72b6353cd1?auto=format&fit=crop&w=500&q=60",
+      "description": "Traditional bamboo tea set with serving tray."
+    },
+    {
+      "id": 12,
+      "name": "Digital Picture Frame",
+      "price": 5999,
+      "image": "https://images.unsplash.com/photo-1574158622682-e40e69881006?auto=format&fit=crop&w=500&q=60",
+      "description": "Smart digital frame that displays rotating photos."
+    },
+    {
+      "id": 13,
+      "name": "Leather Travel Bag",
+      "price": 7999,
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=500&q=60",
+      "description": "Premium leather weekend travel bag with compartments."
+    },
+    {
+      "id": 14,
+      "name": "Fitness Tracker",
+      "price": 3999,
+      "image": "https://images.unsplash.com/photo-1557858310-9052820906f7?auto=format&fit=crop&w=500&q=60",
+      "description": "Smart fitness band with heart rate monitoring."
+    },
+    {
+      "id": 15,
+      "name": "Fountain Pen Set",
+      "price": 4499,
+      "image": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=500&q=60",
+      "description": "Luxury fountain pen set with ink cartridges."
+    },
+    {
+      "id": 16,
+      "name": "Aromatherapy Set",
+      "price": 2999,
+      "image": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=500&q=60",
+      "description": "Complete aromatherapy set with essential oils."
+    },
+    {
+      "id": 17,
+      "name": "Wine Decanter",
+      "price": 3499,
+      "image": "https://images.unsplash.com/photo-1584916201218-f4242ceb4809?auto=format&fit=crop&w=500&q=60",
+      "description": "Crystal wine decanter with aerating design."
+    },
+    {
+      "id": 18,
+      "name": "Wireless Earbuds",
+      "price": 4999,
+      "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=500&q=60",
+      "description": "Premium wireless earbuds with charging case."
+    },
+    {
+      "id": 19,
+      "name": "Succulent Garden",
+      "price": 1499,
+      "image": "https://images.unsplash.com/photo-1459156212016-c812468e2115?auto=format&fit=crop&w=500&q=60",
+      "description": "Set of mini succulents in decorative pots."
+    },
+    {
+      "id": 20,
+      "name": "Board Game Collection",
+      "price": 2999,
+      "image": "https://images.unsplash.com/photo-1610890716171-6b1bb98ffd09?auto=format&fit=crop&w=500&q=60",
+      "description": "Collection of classic board games in wooden box."
+    },
+    {
+      "id": 21,
+      "name": "Yoga Mat Kit",
+      "price": 1999,
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=500&q=60",
+      "description": "Premium yoga mat with accessories."
+    },
+    {
+      "id": 22,
+      "name": "Cocktail Making Set",
+      "price": 3999,
+      "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?auto=format&fit=crop&w=500&q=60",
+      "description": "Complete cocktail making kit with shaker and tools."
+    },
+    {
+      "id": 23,
+      "name": "Art Supply Set",
+      "price": 2499,
+      "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=500&q=60",
+      "description": "Professional art supplies in wooden case."
+    },
+    {
+      "id": 24,
+      "name": "Smart Plant Pot",
+      "price": 1999,
+      "image": "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&w=500&q=60",
+      "description": "Self-watering plant pot with moisture sensor."
+    },
+    {
+      "id": 25,
+      "name": "Cheese Board Set",
+      "price": 2999,
+      "image": "https://images.unsplash.com/photo-1543198126-a8ad8e47fb22?auto=format&fit=crop&w=500&q=60",
+      "description": "Bamboo cheese board with serving tools."
+    },
+    {
+      "id": 26,
+      "name": "Skincare Gift Set",
+      "price": 3499,
+      "image": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?auto=format&fit=crop&w=500&q=60",
+      "description": "Luxury skincare products in gift box."
+    },
+    {
+      "id": 27,
+      "name": "Smart Notebook",
+      "price": 2499,
+      "image": "https://images.unsplash.com/photo-1531346878377-a5be20888e57?auto=format&fit=crop&w=500&q=60",
+      "description": "Digital notebook that syncs with smartphone."
+    },
+    {
+      "id": 28,
+      "name": "Portable Projector",
+      "price": 9999,
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?auto=format&fit=crop&w=500&q=60",
+      "description": "Mini projector for home entertainment."
+    },
+    {
+      "id": 29,
+      "name": "Baking Set",
+      "price": 3999,
+      "image": "https://images.unsplash.com/photo-1621236378699-8597faf6a176?auto=format&fit=crop&w=500&q=60",
+      "description": "Complete baking set with measuring tools."
+    },
+    {
+      "id": 30,
+      "name": "Desk Organizer",
+      "price": 1499,
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=500&q=60",
+      "description": "Wooden desk organizer with multiple compartments."
+    },
+    {
+      "id": 31,
+      "name": "Garden Tool Set",
+      "price": 2499,
+      "image": "https://images.unsplash.com/photo-1617576683096-00fc8eecb3af?auto=format&fit=crop&w=500&q=60",
+      "description": "Essential gardening tools in carrying case."
+    },
+    {
+      "id": 32,
+      "name": "Handmade Soap Collection",
+      "price": 1299,
+      "image": "https://images.unsplash.com/photo-1600857544200-b2f666a9a2ec?auto=format&fit=crop&w=500&q=60",
+      "description": "Artisanal soap set with natural ingredients."
+    },
+    {
+      "id": 33,
+      "name": "Meditation Cushion",
+      "price": 1499,
+      "image": "https://images.unsplash.com/photo-1593810450967-f9c42742e326?auto=format&fit=crop&w=500&q=60",
+      "description": "Comfortable cushion for meditation practice."
+    },
+    {
+      "id": 34,
+      "name": "Smart Scale",
+      "price": 3499,
+      "image": "https://images.unsplash.com/photo-1595078475328-1ab05d0a6a0e?auto=format&fit=crop&w=500&q=60",
+      "description": "Digital scale with smartphone connectivity."
+    },
+    {
+      "id": 35,
+      "name": "Serving Tray Set",
+      "price": 2499,
+      "image": "https://images.unsplash.com/photo-1603199506016-b9a594b593c0?auto=format&fit=crop&w=500&q=60",
+      "description": "Decorative serving trays in various sizes."
+    },
+    {
+      "id": 36,
+      "name": "Book Stand",
+      "price": 1499,
+      "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=500&q=60",
+      "description": "Adjustable wooden book stand for reading."
+    },
+    {
+      "id": 37,
+      "name": "Tea Sampler",
+      "price": 1999,
+      "image": "https://images.unsplash.com/photo-1564890369478-c89ca6d9cde9?auto=format&fit=crop&w=500&q=60",
+      "description": "Collection of premium loose leaf teas."
+    },
+    {
+      "id": 38,
+      "name": "Wall Clock",
+      "price": 2499,
+      "image": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=500&q=60",
+      "description": "Modern design wall clock with silent movement."
+    },
+    {
+      "id": 39,
+      "name": "Spice Rack",
+      "price": 2499,
+      "image": "https://images.unsplash.com/photo-1532336414038-cf19250c5757?auto=format&fit=crop&w=500&q=60",
+      "description": "Rotating spice rack with glass jars."
+    },
+    {
+      "id": 40,
+      "name": "Throw Blanket",
+      "price": 1999,
+      "image": "https://images.unsplash.com/photo-1600369672770-985fd30004eb?auto=format&fit=crop&w=500&q=60",
+      "description": "Soft knitted throw blanket for couch."
+    },
+    {
+      "id": 41,
+      "name": "Desk Lamp",
+      "price": 2999,
+      "image": "https://images.unsplash.com/photo-1534105615256-13940a56ff44?auto=format&fit=crop&w=500&q=60",
+      "description": "LED desk lamp with adjustable brightness."
+    },
+    {
+      "id": 42,
+      "name": "Makeup Mirror",
+      "price": 3499,
+      "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=500&q=60",
+      "description": "LED makeup mirror with magnification."
+    },
+    {
+      "id": 43,
+      "name": "Shower Speaker",
+      "price": 1999,
+      "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=500&q=60",
+      "description": "Waterproof bluetooth shower speaker."
+    },
+    {
+      "id": 44,
+      "name": "Lunch Box Set",
+      "price": 1499,
+      "image": "https://images.unsplash.com/photo-1598346762291-aee88549193f?auto=format&fit=crop&w=500&q=60",
+      "description": "Insulated lunch boxes with containers."
+    },
+    {
+      "id": 45,
+      "name": "Foot Massager",
+      "price": 4999,
+      "image": "https://images.unsplash.com/photo-1595868228899-abc8fabb3447?auto=format&fit=crop&w=500&q=60",
+      "description": "Electric foot massager with heat function."
+    },
+    {
+      "id": 46,
+      "name": "Bedside Organizer",
+      "price": 999,
+      "image": "https://images.unsplash.com/photo-1591129841117-3adfd313e34f?auto=format&fit=crop&w=500&q=60",
+      "description": "Hanging bedside storage organizer."
+    },
+    {
+      "id": 47,
+      "name": "Waffle Maker",
+      "price": 2999,
+      "image": "https://images.unsplash.com/photo-1600628421055-4d30de868b8f?auto=format&fit=crop&w=500&q=60",
+      "description": "Belgian waffle maker with temperature control."
+    },
+    {
+      "id": 48,
+      "name": "Jewelry Stand",
+      "price": 1499,
+      "image": "https://images.unsplash.com/photo-1602173574767-37ac01994b2a?auto=format&fit=crop&w=500&q=60",
+      "description": "Decorative stand for necklaces and rings."
+    },
+    {
+      "id": 49,
+      "name": "Desk Calendar",
+      "price": 999,
+      "image": "https://images.unsplash.com/photo-1618424181497-157f25b6ddd5?auto=format&fit=crop&w=500&q=60",
+      "description": "Wooden desk calendar with notes section."
+    },
+    {
+      "id": 50,
+      "name": "Herb Garden Kit",
+      "price": 1999,
+      "image": "https://images.unsplash.com/photo-1591857177580-dc82b9ac4e1e?auto=format&fit=crop&w=500&q=60",
+      "description": "Indoor herb growing kit with seeds."
+    },
+    {
+      "id": 51,
+      "name": "Smart Home Assistant",
+      "price": 4999,
+      "image": "https://images.unsplash.com/photo-1589666564459-93cdd3ab856a?auto=format&fit=crop&w=500&q=60",
+      "description": "Voice-controlled smart home assistant."
+    },
+    {
+      "id": 52,
+      "name": "Luxury Watch Collection",
+      "price": 15999,
+      "image": "https://images.unsplash.com/photo-1587836374828-4dbafa94cf0e?auto=format&fit=crop&w=500&q=60",
+      "description": "Premium collection of luxury watches."
+    }
+]
